@@ -1,0 +1,44 @@
+2015-07-27 19:12:08 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2015-07-27 19:12:08 2358 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2015-07-27 19:12:08 2358 [Note] InnoDB: The InnoDB memory heap is disabled
+2015-07-27 19:12:08 2358 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2015-07-27 19:12:08 2358 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2015-07-27 19:12:08 2358 [Note] InnoDB: Using CPU crc32 instructions
+2015-07-27 19:12:08 2358 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2015-07-27 19:12:08 2358 [Note] InnoDB: Completed initialization of buffer pool
+2015-07-27 19:12:08 2358 [Note] InnoDB: The first specified data file ./ibdata1 did not exist: a new database to be created!
+2015-07-27 19:12:08 2358 [Note] InnoDB: Setting file ./ibdata1 size to 12 MB
+2015-07-27 19:12:08 2358 [Note] InnoDB: Database physically writes the file full: wait...
+2015-07-27 19:12:08 2358 [Note] InnoDB: Setting log file ./ib_logfile101 size to 48 MB
+2015-07-27 19:12:08 2358 [Note] InnoDB: Setting log file ./ib_logfile1 size to 48 MB
+2015-07-27 19:12:09 2358 [Note] InnoDB: Renaming log file ./ib_logfile101 to ./ib_logfile0
+2015-07-27 19:12:09 2358 [Warning] InnoDB: New log files created, LSN=45781
+2015-07-27 19:12:09 2358 [Note] InnoDB: Doublewrite buffer not found: creating new
+2015-07-27 19:12:09 2358 [Note] InnoDB: Doublewrite buffer created
+2015-07-27 19:12:09 2358 [Note] InnoDB: 128 rollback segment(s) are active.
+2015-07-27 19:12:09 2358 [Warning] InnoDB: Creating foreign key constraint system tables.
+2015-07-27 19:12:09 2358 [Note] InnoDB: Foreign key constraint system tables created
+2015-07-27 19:12:09 2358 [Note] InnoDB: Creating tablespace and datafile system tables.
+2015-07-27 19:12:09 2358 [Note] InnoDB: Tablespace and datafile system tables created.
+2015-07-27 19:12:09 2358 [Note] InnoDB: Waiting for purge to start
+2015-07-27 19:12:09 2358 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.19-67.0 started; log sequence number 0
+2015-07-27 19:12:10 2358 [Note] Binlog end
+2015-07-27 19:12:10 2358 [Note] InnoDB: FTS optimize thread exiting.
+2015-07-27 19:12:10 2358 [Note] InnoDB: Starting shutdown...
+2015-07-27 19:12:11 2358 [Note] InnoDB: Shutdown completed; log sequence number 1625977
+2015-07-27 19:12:11 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2015-07-27 19:12:11 2383 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2015-07-27 19:12:11 2383 [Note] InnoDB: The InnoDB memory heap is disabled
+2015-07-27 19:12:11 2383 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2015-07-27 19:12:11 2383 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2015-07-27 19:12:11 2383 [Note] InnoDB: Using CPU crc32 instructions
+2015-07-27 19:12:11 2383 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2015-07-27 19:12:12 2383 [Note] InnoDB: Completed initialization of buffer pool
+2015-07-27 19:12:12 2383 [Note] InnoDB: Highest supported file format is Barracuda.
+2015-07-27 19:12:12 2383 [Note] InnoDB: 128 rollback segment(s) are active.
+2015-07-27 19:12:12 2383 [Note] InnoDB: Waiting for purge to start
+2015-07-27 19:12:12 2383 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.19-67.0 started; log sequence number 1625977
+2015-07-27 19:12:12 2383 [Note] Binlog end
+2015-07-27 19:12:12 2383 [Note] InnoDB: FTS optimize thread exiting.
+2015-07-27 19:12:12 2383 [Note] InnoDB: Starting shutdown...
+2015-07-27 19:12:14 2383 [Note] InnoDB: Shutdown completed; log sequence number 1625987
