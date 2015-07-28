@@ -1,4 +1,1 @@
-xxx
-this is a  test
-
-master branch 2
+Creating a new branch is quick AND simple.
